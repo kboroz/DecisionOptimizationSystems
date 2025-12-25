@@ -1,5 +1,7 @@
 https://ki-campus.org/lernangebote/kurse/reinforcement-learning
 
+https://ki-campus.org/en/learning-opportunities/courses/robot-learning
+
 https://www.coursera.org/learn/dmrol
 
 https://www.coursera.org/specializations/reinforcement-learning

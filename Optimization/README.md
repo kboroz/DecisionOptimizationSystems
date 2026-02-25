@@ -1,3 +1,17 @@
+https://www.edx.org/learn/computer-programming/seoul-national-university-introduction-to-optimization
+
+https://www.edx.org/learn/engineering/stanford-university-convex-optimization
+
+https://www.edx.org/learn/math/rwth-aachen-university-mathematical-optimization-for-engineers
+
+https://www.edx.org/learn/math/ecole-polytechnique-federale-de-lausanne-optimization-principles-and-algorithms-linear-optimization
+
+https://www.edx.org/learn/algorithms/ecole-polytechnique-federale-de-lausanne-optimization-principles-and-algorithms-unconstrained-nonlinear-optimization
+
+https://www.edx.org/learn/math/ecole-polytechnique-federale-de-lausanne-introduction-to-optimization-on-smooth-manifolds-first-order-methods
+
+https://www.edx.org/learn/math/ecole-polytechnique-federale-de-lausanne-optimization-principles-and-algorithms-network-and-discrete-optimization
+
 https://www.optimization101.org/2020/12/welcome.html
 
 https://www.coursera.org/specializations/operations-research

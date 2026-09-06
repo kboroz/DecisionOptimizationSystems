@@ -36,4 +36,7 @@ https://sgino209.medium.com/deep-reinforcement-learning-for-automated-stock-trad
 
 https://www.aion-research.com/post/building-a-reinforcement-learning-agent-for-algorithmic-trading
 
+## Multi-Agent Reinforcement Learning: Foundations and Modern Approaches
+
+https://www.marl-book.com/
 
